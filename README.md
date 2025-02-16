@@ -12,4 +12,4 @@ A simple restaurant web page built using HTML & CSS, designed for a fictional re
 HTML5
 CSS3 (Flexbox & Grid)
 
-Link: https://github.com/yourusername/reestar-restaurant.git
+Link:https://rajeek02.github.io/Reestar_Restaurant_Sample_Webpage/
